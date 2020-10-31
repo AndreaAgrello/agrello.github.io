@@ -17,7 +17,7 @@
     "siteFonts": [],
     "imageResize": true,
     "snow": "",
-    "uniqCompNum": 5,
+    "uniqCompNum": 6,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -82,7 +82,7 @@
               "title": "AAGRELLO"
             }
           },
-          "brand": "<a class=\"text-primary\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANDRÉA AGRELLO &nbsp;25789</a>",
+          "brand": "<a class=\"text-primary\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://www.agrello.com.br\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ANDRÉA AGRELLO &nbsp;25789</a>",
           "_tags": [
             "Theme"
           ],
@@ -360,7 +360,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#37383e",
+            "bgColor": "#0d4a7e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -370,7 +370,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Onde:</strong><br>Candidata à vereadora de Niterói<br>25.789 - partido DEM<br><br>\n<strong>Contato</strong><br>\nEmail: andreaagrello@agrello.com.br<br><br>",
+          "text1": "<strong>Onde:</strong><br>Candidata à vereadora de Niterói<br>25.789 - partido DEM<br><br>\n<strong>Contato</strong><br>\nEmail: andreaagrello@agrello.com.br<br><br>CNPJ:&nbsp;38.508.708/0001-20",
           "text2": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\" class=\"text-info\">https://www.facebook.com/andrea.agrello.5</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
