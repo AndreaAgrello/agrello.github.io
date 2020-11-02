@@ -98,7 +98,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/banner-5-630x220.jpeg",
+            "bgImage": "@PROJECT_PATH@/assets/images/andra-noite-768x1024.jpeg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -108,7 +108,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.3"
           },
           "title": "Candidata a Vereadora em Niterói",
           "text": "Vamos juntos realizar uma NOVA CIDADE",
@@ -121,7 +121,10 @@
           "_anchor": "header4-a",
           "_styles": {
             "H1": {
-              "color": "#0d4a7e"
+              "color": "#fbf2be"
+            },
+            "P": {
+              "color": "#fed5c5"
             }
           }
         },
