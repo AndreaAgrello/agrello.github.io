@@ -44,7 +44,10 @@
             ".hide-buttons [data-button]": {
               "display": "none !important"
             },
-            ".navbar-brand a": {},
+            ".navbar-brand a": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
             ".nav .link, .dropdown-item": {
               "font-size": "1.2em",
               "color": "#000000"
@@ -108,7 +111,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.2"
           },
           "title": "Candidata a Vereadora em Niterói",
           "text": "Vamos juntos realizar uma NOVA CIDADE",
@@ -307,6 +310,10 @@
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
+            },
+            ".btn": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           },
           "_params": {
@@ -366,7 +373,13 @@
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-2"
+          "_anchor": "content5-2",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
         },
         {
           "_params": {
